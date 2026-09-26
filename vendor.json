@@ -1,0 +1,9 @@
+{
+  "_说明": "随本工具带的其它模块副本的来历。副本是 source 在 ref 处的完整内容，不在这里改；核对与更新见 web-kit 的 README「副本与比对」。",
+  "web-kit": {
+    "source": "https://github.com/edsfod/web-kit.git",
+    "ref": "v1.2.0",
+    "commit": "f586df12439f099aec99485f0b9667de9f56ae2d",
+    "tree": "swh:1:dir:330c72c729396dcf55b34484b522bebbc181702e"
+  }
+}

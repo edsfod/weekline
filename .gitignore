@@ -1,0 +1,11 @@
+# 本机运行产物与改动前备份（便携模式的数据目录）
+var/
+__pycache__/
+*.pyc
+# 便携模式标记（见 web-kit/tooldirs.py）
+portable
+# 个人设置与个人数据（便携模式下在工具目录里）
+/settings.json
+/plan.md
+# 发布包
+dist/
